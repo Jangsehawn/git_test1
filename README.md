@@ -1,3 +1,13 @@
+# 깃배시를 사용하여 커밋하는 방법을 실습한 코드를 정리해보았습니다
+## cd 위치이동
+##  .. 그전 위치로 
+## git add . 변경된것 다 
+##  pwd 현 위치
+## git --version  버전확인
+## git init 초기화
+## git remote add origin 레퍼주소  레퍼와 연결 
+## git commit -m "read" 메세지 남김
+## git push origin master 깃헙과 연동해 
 bash: /c/Users/장세환/.profile: is a directory
 
 장세환@DESKTOP-60V1R5B MINGW64 ~
