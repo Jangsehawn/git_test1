@@ -7,7 +7,7 @@
 ## git init 초기화
 ## git remote add origin 레퍼주소  레퍼와 연결 
 ## git commit -m "read" 메세지 남김
-## git push origin master 깃헙과 연동해 
+## git push origin master 깃헙과 연동해 커밋
 bash: /c/Users/장세환/.profile: is a directory
 
 장세환@DESKTOP-60V1R5B MINGW64 ~
